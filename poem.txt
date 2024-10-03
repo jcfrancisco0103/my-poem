@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn and the Pony
+The Rainbow and MyBranch
 
 Purple
 Pink
@@ -6,11 +6,11 @@ Orange
 Blue
 Green
 Indigo
-Unicorn
+MyBranch
 Yellow
 Red
 These are the colors of the rainbow.
-And the Unicorn.
+And the MyBranch.
 Pony
 
 This is the new line I added for updated changes
